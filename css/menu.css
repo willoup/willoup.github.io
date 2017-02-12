@@ -17,7 +17,7 @@ strong {
 }
 
 .btn {
-  font-weight: 300;
+  font-weight: 500;
 }
 
 .btn-primary {
@@ -47,12 +47,17 @@ strong {
 }
 
 .description {
-  background-image: url("../img/image5.jpeg");
+  background-image: url("../img/image6.jpg");
   background-repeat: repeat-x;
 }
 
 .jumbotron {
-  background-image: url ("../img/image5.jpeg");
+  background-image: url ("../img/image6.jpg");
   background-size: cover;
   color: black;
+  background-color: rgba(236, 238, 239, 0);
+}
+
+.display-1 {
+  color: rgb(62, 55, 55);
 }
